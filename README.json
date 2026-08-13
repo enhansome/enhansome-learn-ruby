@@ -1,0 +1,278 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Preliminaries"
+    },
+    {
+      "description": "I suggest the free Odin Project if you're looking for one resource that can take you from zero to potentially hireable. If you want more variety and more depth on certain topics, keep reading!",
+      "items": [],
+      "title": "What's the best single learning resource?"
+    },
+    {
+      "description": "Initially I looked into full-stack JS, but the JS ecosystem was confusing to me as a solo learner. I found Ruby to be more straightforward and enjoyable.",
+      "items": [],
+      "title": "Why Ruby?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Basics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Guided practice:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Advent of Code",
+              "description": "with other people's Ruby solutions to compare yours to. One way to do this is my Advent of Ruby gem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-02-18T15:32:03Z",
+                "owner": "fpsvogel",
+                "repo": "advent_of_ruby",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Build stuff with Ruby. Here are some ideas:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A static site with Bridgetown",
+              "description": ", which is simpler than building a web app with Rails. Maybe rebuild your blog? Be sure to join the Bridgetown Discord server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-03T12:02:44Z",
+                "owner": "bridgetownrb",
+                "repo": "bridgetown",
+                "stars": 1361
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Ruby basics"
+    },
+    {
+      "description": "In addition to the topics below, it's also good to know the basic workings of the Internet and the Web. Resources for that are listed in my \"Learn Computer Science\" list.",
+      "items": [],
+      "title": "Foundations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oh Shit, Git!?!",
+          "description": "or for more detail, Git Flight Rules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T20:48:50Z",
+            "owner": "k88hudson",
+            "repo": "git-flight-rules",
+            "stars": 42596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Katas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-26T09:07:32Z",
+            "owner": "eficode-academy",
+            "repo": "git-katas",
+            "stars": 1663
+          }
+        }
+      ],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Front end"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Other vanilla JS:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Signals: Ryan Carniato explains JavaScript Signals",
+              "description": ", alien-signals, Preact Signals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-06-10T12:29:02Z",
+                "owner": "stackblitz",
+                "repo": "alien-signals",
+                "stars": 3220
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TypeScript:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TypeScript libraries: TS-Pattern",
+              "description": ", Zod, type-fest, Effect",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T23:33:38Z",
+                "owner": "gvergnaud",
+                "repo": "ts-pattern",
+                "stars": 15122
+              }
+            }
+          ]
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Turbo 8:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Turbo Music Drive",
+              "description": "app demonstrating upcoming features of Turbo 8, along with accompanying blog posts (pt. 1 on morphing, pt. 2 on view transitions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-04-08T17:40:45Z",
+                "owner": "palkan",
+                "repo": "turbo-music-drive",
+                "stars": 150
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reference:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "turbo-rails \"Usage\" README section",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-07-01T18:18:50Z",
+                "owner": "hotwired",
+                "repo": "turbo-rails",
+                "stars": 2390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "thoughtbot - Hotwire examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2025-01-04T14:01:02Z",
+                "owner": "thoughtbot",
+                "repo": "hotwire-example-template",
+                "stars": 1077
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Hotwire"
+    },
+    {
+      "description": "See also my GitHub star lists for handy Ruby gems.",
+      "items": [],
+      "title": "Advanced Ruby and Rails"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gamefic",
+          "description": "for building text-based games and interactive fiction. See Getting Started and examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-23T16:37:13Z",
+            "owner": "castwide",
+            "repo": "gamefic-sdk",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💲DragonRuby Game Toolkit",
+          "description": "for game development. See their Discord and community site. Other Ruby game libraries: GMR, Gosu, Hokusai/Hokusai Pocket, MiniGL, mruby-cute, Raylib Ruby, Reight, Ruby 2D, Taylor, TIC-80",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-16T23:21:50Z",
+            "owner": "ColdGlassOMilk",
+            "repo": "GMR",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Ruby that is not web development"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:01.400Z",
+    "original_repository": "fpsvogel/learn-ruby",
+    "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
+    "enhanced_repository": "enhansome/enhansome-learn-ruby",
+    "enhanced_repository_description": null,
+    "title": "Awesome Learn Ruby: a resource list with stars"
+  }
+}
