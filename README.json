@@ -57,7 +57,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Ruby",
-                "last_commit": "2026-08-03T12:02:44Z",
+                "last_commit": "2026-08-13T16:44:47Z",
                 "owner": "bridgetownrb",
                 "repo": "bridgetown",
                 "stars": 1361
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-23T20:48:50Z",
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42595
+            "stars": 42596
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-01-26T09:07:32Z",
             "owner": "eficode-academy",
             "repo": "git-katas",
-            "stars": 1663
+            "stars": 1664
           }
         }
       ],
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-10T23:33:38Z",
                 "owner": "gvergnaud",
                 "repo": "ts-pattern",
-                "stars": 15122
+                "stars": 15124
               }
             }
           ]
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:00:11.519Z",
+    "last_updated": "2026-08-14T11:57:41.413Z",
     "original_repository": "fpsvogel/learn-ruby",
     "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
     "enhanced_repository": "enhansome/enhansome-learn-ruby",
