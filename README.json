@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-13T16:44:47Z",
                 "owner": "bridgetownrb",
                 "repo": "bridgetown",
-                "stars": 1362
+                "stars": 1363
               }
             }
           ]
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-23T20:48:50Z",
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42594
+            "stars": 42596
           }
         },
         {
@@ -131,7 +131,7 @@
                 "last_commit": "2026-06-10T12:29:02Z",
                 "owner": "stackblitz",
                 "repo": "alien-signals",
-                "stars": 3221
+                "stars": 3222
               }
             }
           ]
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-10T23:33:38Z",
                 "owner": "gvergnaud",
                 "repo": "ts-pattern",
-                "stars": 15124
+                "stars": 15125
               }
             }
           ]
@@ -200,7 +200,7 @@
                 "last_commit": "2026-07-01T18:18:50Z",
                 "owner": "hotwired",
                 "repo": "turbo-rails",
-                "stars": 2390
+                "stars": 2388
               }
             },
             {
@@ -214,7 +214,7 @@
                 "last_commit": "2025-01-04T14:01:02Z",
                 "owner": "thoughtbot",
                 "repo": "hotwire-example-template",
-                "stars": 1077
+                "stars": 1076
               }
             }
           ]
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:33:52.852Z",
+    "last_updated": "2026-08-16T11:34:10.489Z",
     "original_repository": "fpsvogel/learn-ruby",
     "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
     "enhanced_repository": "enhansome/enhansome-learn-ruby",
