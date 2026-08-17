@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-13T16:44:47Z",
                 "owner": "bridgetownrb",
                 "repo": "bridgetown",
-                "stars": 1363
+                "stars": 1364
               }
             }
           ]
@@ -87,7 +87,7 @@
             "last_commit": "2026-07-23T20:48:50Z",
             "owner": "k88hudson",
             "repo": "git-flight-rules",
-            "stars": 42596
+            "stars": 42597
           }
         },
         {
@@ -131,7 +131,7 @@
                 "last_commit": "2026-06-10T12:29:02Z",
                 "owner": "stackblitz",
                 "repo": "alien-signals",
-                "stars": 3222
+                "stars": 3224
               }
             }
           ]
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:34:10.489Z",
+    "last_updated": "2026-08-17T11:41:03.532Z",
     "original_repository": "fpsvogel/learn-ruby",
     "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
     "enhanced_repository": "enhansome/enhansome-learn-ruby",
