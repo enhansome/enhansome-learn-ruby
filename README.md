@@ -387,7 +387,7 @@ Without further ado…
 * **Small codebases:** Less than 50k lines of Ruby code.
   * [github.com/maybe-finance/maybe](https://github.com/maybe-finance/maybe) ⚠️ Archived. 19k lines. *Personal finance app.*
   * [github.com/huginn/huginn](https://github.com/huginn/huginn) ⭐ 49,822 | 🐛 696 | 🌐 Ruby | 📅 2026-08-15. 37k lines. *Web task automation.*
-  * [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) ⭐ 18,300 | 🐛 118 | 🌐 Ruby | 📅 2026-08-17. 15k lines. *Open source DocuSign alternative.*
+  * [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) ⭐ 18,301 | 🐛 118 | 🌐 Ruby | 📅 2026-08-17. 15k lines. *Open source DocuSign alternative.*
   * [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) ⭐ 4,815 | 🐛 263 | 🌐 Ruby | 📅 2026-08-17. 18k lines. *Hacker News clone.*
   * [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) ⭐ 4,577 | 🐛 62 | 🌐 Ruby | 📅 2026-08-12. 16k lines. *Main website for The Odin Project web development learning platform.*
   * [github.com/basecamp/once-campfire](https://github.com/basecamp/once-campfire) ⭐ 4,494 | 🐛 28 | 🌐 Ruby | 📅 2026-08-18. 6k lines. *Self-hosted chat application similar to Slack.*
@@ -418,18 +418,18 @@ Without further ado…
   * [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2024-03-26. 9k lines. *Community calendar platform.*
   * [once.com/writebook](https://once.com/writebook). 3k lines. *App for publishing books to the web.* <!-- https://once.com/assets/images/logo-writebook.png -->
 * **Larger codebases:** More than 50k lines of Ruby code.
-  * [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) ⭐ 50,220 | 🐛 4,490 | 🌐 Ruby | 📅 2026-08-19. 117k lines. *Like Twitter but self-hosted and federated.*
-  * [github.com/discourse/discourse](https://github.com/discourse/discourse) ⭐ 47,674 | 🐛 251 | 🌐 Ruby | 📅 2026-08-19. 514k lines. *Discussion forum platform. Has an Ember.js front end.*
-  * [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 35,977 | 🐛 1,334 | 🌐 Ruby | 📅 2026-08-19. 74k lines. *Customer engagement suite. Has a Vue.js front end.*
-  * [github.com/forem/forem](https://github.com/forem/forem) ⭐ 22,769 | 🐛 129 | 🌐 Ruby | 📅 2026-08-18. 126k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
-  * [github.com/opf/openproject](https://github.com/opf/openproject) ⭐ 15,886 | 🐛 230 | 🌐 Ruby | 📅 2026-08-19. 479k lines. *Project management software.*
-  * [github.com/antiwork/gumroad](https://github.com/antiwork/gumroad) ⭐ 9,598 | 🐛 6 | 🌐 Ruby | 📅 2026-08-19. 323k lines. *E-commerce platform.*
+  * [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) ⭐ 50,220 | 🐛 4,488 | 🌐 Ruby | 📅 2026-08-19. 117k lines. *Like Twitter but self-hosted and federated.*
+  * [github.com/discourse/discourse](https://github.com/discourse/discourse) ⭐ 47,674 | 🐛 255 | 🌐 Ruby | 📅 2026-08-19. 514k lines. *Discussion forum platform. Has an Ember.js front end.*
+  * [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 35,978 | 🐛 1,336 | 🌐 Ruby | 📅 2026-08-19. 74k lines. *Customer engagement suite. Has a Vue.js front end.*
+  * [github.com/forem/forem](https://github.com/forem/forem) ⭐ 22,769 | 🐛 130 | 🌐 Ruby | 📅 2026-08-19. 126k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
+  * [github.com/opf/openproject](https://github.com/opf/openproject) ⭐ 15,887 | 🐛 227 | 🌐 Ruby | 📅 2026-08-19. 479k lines. *Project management software.*
+  * [github.com/antiwork/gumroad](https://github.com/antiwork/gumroad) ⭐ 9,597 | 🐛 5 | 🌐 Ruby | 📅 2026-08-19. 323k lines. *E-commerce platform.*
   * [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) ⭐ 6,780 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30. 891k lines. *A popular LMS (learning management system).*
   * [github.com/redmine/redmine](https://github.com/redmine/redmine) ⭐ 6,021 | 🐛 3 | 🌐 Ruby | 📅 2026-08-19. 118k lines. *Project management app.*
-  * [github.com/zammad/zammad](https://github.com/zammad/zammad) ⭐ 5,854 | 🐛 451 | 🌐 Ruby | 📅 2026-08-19. 299k lines. *Helpdesk/customer support system.*
+  * [github.com/zammad/zammad](https://github.com/zammad/zammad) ⭐ 5,854 | 🐛 449 | 🌐 Ruby | 📅 2026-08-19. 299k lines. *Helpdesk/customer support system.*
   * [github.com/solidusio/solidus](https://github.com/solidusio/solidus) ⭐ 5,318 | 🐛 110 | 🌐 Ruby | 📅 2026-08-19. 98k lines. *E-commerce platform.*
   * [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) ⭐ 2,438 | 🐛 109 | 🌐 Ruby | 📅 2026-08-19. 56k lines. *Where Ruby gems are hosted.*
-  * [github.com/decidim/decidim](https://github.com/decidim/decidim) ⭐ 1,808 | 🐛 353 | 🌐 Ruby | 📅 2026-08-19. 294k lines. *The participatory democracy framework.*
+  * [github.com/decidim/decidim](https://github.com/decidim/decidim) ⭐ 1,808 | 🐛 354 | 🌐 Ruby | 📅 2026-08-19. 294k lines. *The participatory democracy framework.*
   * [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,272 | 🐛 620 | 🌐 Ruby | 📅 2026-08-19. 129k lines. *An online marketplace for local food.*
   * [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) ⭐ 1,023 | 🐛 41 | 🌐 Ruby | 📅 2026-08-19. 110k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
   * [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard) ⭐ 428 | 🐛 315 | 🌐 Ruby | 📅 2026-08-18. 59k lines. *Wikipedia course dashboard system. Has a React front end.*
