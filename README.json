@@ -44,7 +44,7 @@
                     "last_commit": "2026-08-13T16:44:47Z",
                     "owner": "bridgetownrb",
                     "repo": "bridgetown",
-                    "stars": 1363
+                    "stars": 1364
                   }
                 }
               ]
@@ -74,7 +74,7 @@
                 "last_commit": "2026-07-23T20:48:50Z",
                 "owner": "k88hudson",
                 "repo": "git-flight-rules",
-                "stars": 42596
+                "stars": 42597
               }
             },
             {
@@ -122,7 +122,7 @@
                     "last_commit": "2026-06-10T12:29:02Z",
                     "owner": "stackblitz",
                     "repo": "alien-signals",
-                    "stars": 3228
+                    "stars": 3230
                   }
                 }
               ]
@@ -144,7 +144,7 @@
                     "last_commit": "2026-08-10T23:33:38Z",
                     "owner": "gvergnaud",
                     "repo": "ts-pattern",
-                    "stars": 15130
+                    "stars": 15131
                   }
                 }
               ]
@@ -230,6 +230,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "💲DragonRuby Game Toolkit",
+              "description": "for game development. See their Discord and community site. Other Ruby game libraries: GMR, Gosu, Hokusai/Hokusai Pocket, MiniGL, mruby-cute, Raylib Ruby, Reight, Ruby 2D, Taylor, TIC-80",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1125061697,
+                "language": "C++",
+                "last_commit": "2026-02-16T23:21:50Z",
+                "owner": "ColdGlassOMilk",
+                "repo": "GMR",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Gamefic",
               "description": "for building text-based games and interactive fiction. See Getting Started and examples.",
               "children": [],
@@ -241,21 +256,6 @@
                 "owner": "castwide",
                 "repo": "gamefic-sdk",
                 "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "💲DragonRuby Game Toolkit",
-              "description": "for game development. See their Discord and community site. Other Ruby game libraries: GMR, Gosu, Hokusai/Hokusai Pocket, MiniGL, mruby-cute, Raylib Ruby, Reight, Ruby 2D, Taylor, TIC-80",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1125061697,
-                "language": "C++",
-                "last_commit": "2026-02-16T23:21:50Z",
-                "owner": "ColdGlassOMilk",
-                "repo": "GMR",
-                "stars": 11
               }
             }
           ],
@@ -312,7 +312,7 @@
                     "last_commit": "2025-07-24T22:20:44Z",
                     "owner": "maybe-finance",
                     "repo": "maybe",
-                    "stars": 54321
+                    "stars": 54317
                   }
                 },
                 {
@@ -324,10 +324,10 @@
                     "archived": false,
                     "id": 8681349,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T01:50:11Z",
+                    "last_commit": "2026-08-22T02:42:21Z",
                     "owner": "huginn",
                     "repo": "huginn",
-                    "stars": 49826
+                    "stars": 49833
                   }
                 },
                 {
@@ -342,7 +342,7 @@
                     "last_commit": "2026-08-17T10:25:54Z",
                     "owner": "docusealco",
                     "repo": "docuseal",
-                    "stars": 18315
+                    "stars": 18328
                   }
                 },
                 {
@@ -369,10 +369,10 @@
                     "archived": false,
                     "id": 10088951,
                     "language": "Ruby",
-                    "last_commit": "2026-08-20T17:00:38Z",
+                    "last_commit": "2026-08-21T12:56:13Z",
                     "owner": "TheOdinProject",
                     "repo": "theodinproject",
-                    "stars": 4581
+                    "stars": 4583
                   }
                 },
                 {
@@ -384,10 +384,10 @@
                     "archived": false,
                     "id": 1038494975,
                     "language": "Ruby",
-                    "last_commit": "2026-08-20T10:08:27Z",
+                    "last_commit": "2026-08-22T09:22:27Z",
                     "owner": "basecamp",
                     "repo": "once-campfire",
-                    "stars": 4500
+                    "stars": 4506
                   }
                 },
                 {
@@ -459,7 +459,7 @@
                     "archived": false,
                     "id": 153442864,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T08:59:45Z",
+                    "last_commit": "2026-08-21T22:15:13Z",
                     "owner": "CircuitVerse",
                     "repo": "CircuitVerse",
                     "stars": 1246
@@ -477,7 +477,7 @@
                     "last_commit": "2026-05-13T07:30:20Z",
                     "owner": "lookbook-hq",
                     "repo": "lookbook",
-                    "stars": 1091
+                    "stars": 1092
                   }
                 },
                 {
@@ -489,7 +489,7 @@
                     "archived": false,
                     "id": 912575383,
                     "language": "Ruby",
-                    "last_commit": "2026-08-20T03:13:56Z",
+                    "last_commit": "2026-08-21T23:50:29Z",
                     "owner": "Eigenfocus",
                     "repo": "eigenfocus",
                     "stars": 944
@@ -549,7 +549,7 @@
                     "archived": false,
                     "id": 89035461,
                     "language": "Ruby",
-                    "last_commit": "2026-08-20T23:58:47Z",
+                    "last_commit": "2026-08-21T23:26:59Z",
                     "owner": "rubyforgood",
                     "repo": "human-essentials",
                     "stars": 583
@@ -582,7 +582,7 @@
                     "last_commit": "2026-08-20T11:37:23Z",
                     "owner": "AllYourBot",
                     "repo": "hostedgpt",
-                    "stars": 511
+                    "stars": 510
                   }
                 },
                 {
@@ -594,7 +594,7 @@
                     "archived": false,
                     "id": 195810494,
                     "language": "Ruby",
-                    "last_commit": "2026-08-20T22:39:22Z",
+                    "last_commit": "2026-08-21T23:13:40Z",
                     "owner": "RailsEventStore",
                     "repo": "ecommerce",
                     "stars": 504
@@ -781,10 +781,10 @@
                     "archived": false,
                     "id": 52281283,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T10:56:39Z",
+                    "last_commit": "2026-08-22T04:44:00Z",
                     "owner": "mastodon",
                     "repo": "mastodon",
-                    "stars": 50236
+                    "stars": 50240
                   }
                 },
                 {
@@ -796,10 +796,10 @@
                     "archived": false,
                     "id": 7569578,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T10:59:53Z",
+                    "last_commit": "2026-08-22T05:32:34Z",
                     "owner": "discourse",
                     "repo": "discourse",
-                    "stars": 47690
+                    "stars": 47700
                   }
                 },
                 {
@@ -811,10 +811,10 @@
                     "archived": false,
                     "id": 202291859,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T11:18:38Z",
+                    "last_commit": "2026-08-22T09:11:54Z",
                     "owner": "chatwoot",
                     "repo": "chatwoot",
-                    "stars": 36035
+                    "stars": 36062
                   }
                 },
                 {
@@ -829,7 +829,7 @@
                     "last_commit": "2026-08-20T16:03:52Z",
                     "owner": "forem",
                     "repo": "forem",
-                    "stars": 22768
+                    "stars": 22769
                   }
                 },
                 {
@@ -841,10 +841,10 @@
                     "archived": false,
                     "id": 6899875,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T11:18:57Z",
+                    "last_commit": "2026-08-22T03:20:57Z",
                     "owner": "opf",
                     "repo": "openproject",
-                    "stars": 15906
+                    "stars": 15909
                   }
                 },
                 {
@@ -856,10 +856,10 @@
                     "archived": false,
                     "id": 959682770,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T11:08:44Z",
+                    "last_commit": "2026-08-22T09:39:28Z",
                     "owner": "antiwork",
                     "repo": "gumroad",
-                    "stars": 9604
+                    "stars": 9608
                   }
                 },
                 {
@@ -874,7 +874,7 @@
                     "last_commit": "2026-04-30T14:52:10Z",
                     "owner": "instructure",
                     "repo": "canvas-lms",
-                    "stars": 6779
+                    "stars": 6782
                   }
                 },
                 {
@@ -886,10 +886,10 @@
                     "archived": false,
                     "id": 6768710,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T07:35:08Z",
+                    "last_commit": "2026-08-22T06:45:08Z",
                     "owner": "redmine",
                     "repo": "redmine",
-                    "stars": 6022
+                    "stars": 6021
                   }
                 },
                 {
@@ -901,10 +901,10 @@
                     "archived": false,
                     "id": 3898922,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T11:17:11Z",
+                    "last_commit": "2026-08-21T15:45:57Z",
                     "owner": "zammad",
                     "repo": "zammad",
-                    "stars": 5860
+                    "stars": 5861
                   }
                 },
                 {
@@ -931,7 +931,7 @@
                     "archived": false,
                     "id": 117646,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T07:53:47Z",
+                    "last_commit": "2026-08-21T22:57:30Z",
                     "owner": "rubygems",
                     "repo": "rubygems.org",
                     "stars": 2439
@@ -946,7 +946,7 @@
                     "archived": false,
                     "id": 65914086,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T10:56:36Z",
+                    "last_commit": "2026-08-22T10:19:31Z",
                     "owner": "decidim",
                     "repo": "decidim",
                     "stars": 1808
@@ -964,7 +964,7 @@
                     "last_commit": "2026-08-21T00:12:34Z",
                     "owner": "openfoodfoundation",
                     "repo": "openfoodnetwork",
-                    "stars": 1273
+                    "stars": 1274
                   }
                 },
                 {
@@ -976,10 +976,10 @@
                     "archived": false,
                     "id": 2416064,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T10:52:13Z",
+                    "last_commit": "2026-08-21T15:21:58Z",
                     "owner": "alphagov",
                     "repo": "whitehall",
-                    "stars": 1023
+                    "stars": 1024
                   }
                 },
                 {
@@ -991,7 +991,7 @@
                     "archived": false,
                     "id": 27940263,
                     "language": "Ruby",
-                    "last_commit": "2026-08-20T21:41:24Z",
+                    "last_commit": "2026-08-21T22:14:28Z",
                     "owner": "WikiEducationFoundation",
                     "repo": "WikiEduDashboard",
                     "stars": 428
@@ -1009,7 +1009,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:42:24.924Z",
+    "last_updated": "2026-08-22T11:35:21.114Z",
     "original_repository": "fpsvogel/learn-ruby",
     "original_repository_id": 368956146,
     "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
