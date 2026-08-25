@@ -173,7 +173,7 @@
                     "last_commit": "2026-06-10T12:29:02Z",
                     "owner": "stackblitz",
                     "repo": "alien-signals",
-                    "stars": 3231
+                    "stars": 3232
                   }
                 }
               ]
@@ -293,7 +293,7 @@
                     "archived": false,
                     "id": 87380483,
                     "language": "Ruby",
-                    "last_commit": "2026-08-22T18:08:10Z",
+                    "last_commit": "2026-08-24T15:39:40Z",
                     "owner": "socketry",
                     "repo": "async",
                     "stars": 2460
@@ -325,7 +325,7 @@
                     "last_commit": "2026-08-17T17:39:39Z",
                     "owner": "sidekiq",
                     "repo": "sidekiq",
-                    "stars": 13552
+                    "stars": 13553
                   }
                 }
               ]
@@ -414,7 +414,7 @@
                 "last_commit": "2024-12-30T06:53:52Z",
                 "owner": "asyraffff",
                 "repo": "Open-Source-Ruby-and-Rails-Apps",
-                "stars": 1261
+                "stars": 1260
               }
             },
             {
@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 1164951586,
                 "language": "Shell",
-                "last_commit": "2026-08-24T14:07:04Z",
+                "last_commit": "2026-08-24T16:03:38Z",
                 "owner": "steveclarke",
                 "repo": "real-world-rails",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -439,7 +439,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "github.com/maybe-finance/maybe",
+                  "title": "maybe-finance/maybe",
                   "description": ". 19k lines. Personal finance app.",
                   "children": [],
                   "repo_info": {
@@ -454,22 +454,22 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/huginn/huginn",
+                  "title": "huginn/huginn",
                   "description": ". 37k lines. Web task automation.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 8681349,
                     "language": "Ruby",
-                    "last_commit": "2026-08-22T02:42:21Z",
+                    "last_commit": "2026-08-25T05:13:04Z",
                     "owner": "huginn",
                     "repo": "huginn",
-                    "stars": 49848
+                    "stars": 49849
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/docusealco/docuseal",
+                  "title": "docusealco/docuseal",
                   "description": ". 15k lines. Open source DocuSign alternative.",
                   "children": [],
                   "repo_info": {
@@ -479,12 +479,12 @@
                     "last_commit": "2026-08-17T10:25:54Z",
                     "owner": "docusealco",
                     "repo": "docuseal",
-                    "stars": 18361
+                    "stars": 18372
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/lobsters/lobsters",
+                  "title": "lobsters/lobsters",
                   "description": ". 18k lines. Hacker News clone.",
                   "children": [],
                   "repo_info": {
@@ -499,7 +499,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/TheOdinProject/theodinproject",
+                  "title": "TheOdinProject/theodinproject",
                   "description": ". 16k lines. Main website for The Odin Project web development learning platform.",
                   "children": [],
                   "repo_info": {
@@ -509,27 +509,27 @@
                     "last_commit": "2026-08-24T08:53:45Z",
                     "owner": "TheOdinProject",
                     "repo": "theodinproject",
-                    "stars": 4584
+                    "stars": 4585
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/basecamp/once-campfire",
+                  "title": "basecamp/once-campfire",
                   "description": ". 6k lines. Self-hosted chat application similar to Slack.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1038494975,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T02:19:58Z",
+                    "last_commit": "2026-08-24T15:39:22Z",
                     "owner": "basecamp",
                     "repo": "once-campfire",
-                    "stars": 4517
+                    "stars": 4518
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/feedbin/feedbin",
+                  "title": "feedbin/feedbin",
                   "description": ". 31k lines. RSS reader.",
                   "children": [],
                   "repo_info": {
@@ -539,12 +539,12 @@
                     "last_commit": "2026-08-19T11:26:25Z",
                     "owner": "feedbin",
                     "repo": "feedbin",
-                    "stars": 3778
+                    "stars": 3776
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/SpinaCMS/Spina",
+                  "title": "SpinaCMS/Spina",
                   "description": ". 6k lines. CMS (Content Management System).",
                   "children": [],
                   "repo_info": {
@@ -559,7 +559,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/ifmeorg/ifme",
+                  "title": "ifmeorg/ifme",
                   "description": ". 21k lines. Mental health communication web app to share experiences with loved ones.",
                   "children": [],
                   "repo_info": {
@@ -574,7 +574,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/codetriage/codetriage",
+                  "title": "codetriage/CodeTriage",
                   "description": ". 6k lines. Issue tracker for open-source projects.",
                   "children": [],
                   "repo_info": {
@@ -584,19 +584,19 @@
                     "last_commit": "2026-08-02T05:03:24Z",
                     "owner": "codetriage",
                     "repo": "CodeTriage",
-                    "stars": 1465
+                    "stars": 1464
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/CircuitVerse/CircuitVerse",
+                  "title": "CircuitVerse/CircuitVerse",
                   "description": ". 15k lines. Digital logic circuit simulator. Has a Vue.js front end.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 153442864,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-23T15:59:54Z",
+                    "last_commit": "2026-08-24T22:15:59Z",
                     "owner": "CircuitVerse",
                     "repo": "CircuitVerse",
                     "stars": 1247
@@ -604,7 +604,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/lookbook-hq/lookbook",
+                  "title": "lookbook-hq/lookbook",
                   "description": ". 11k lines. UI development environment for Rails apps.",
                   "children": [],
                   "repo_info": {
@@ -619,14 +619,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/eigenfocus/eigenfocus",
+                  "title": "Eigenfocus/eigenfocus",
                   "description": ". 5k lines. Self-hosted project/time management app.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 912575383,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T23:50:29Z",
+                    "last_commit": "2026-08-25T03:15:24Z",
                     "owner": "Eigenfocus",
                     "repo": "eigenfocus",
                     "stars": 944
@@ -634,7 +634,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/openSUSE/osem",
+                  "title": "openSUSE/osem",
                   "description": ". 24k lines. Event management tool tailored to Free and Open Source Software conferences.",
                   "children": [],
                   "repo_info": {
@@ -644,19 +644,19 @@
                     "last_commit": "2026-08-23T05:16:49Z",
                     "owner": "openSUSE",
                     "repo": "osem",
-                    "stars": 926
+                    "stars": 925
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/AlchemyCMS/alchemy_cms",
+                  "title": "AlchemyCMS/alchemy_cms",
                   "description": ". 37k lines. CMS (Content Management System).",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 1581769,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:57:54Z",
+                    "last_commit": "2026-08-24T21:19:34Z",
                     "owner": "AlchemyCMS",
                     "repo": "alchemy_cms",
                     "stars": 907
@@ -664,7 +664,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/joemasilotti/railsdevs.com",
+                  "title": "joemasilotti/railsdevs.com",
                   "description": ". 14k lines. The reverse job board for Ruby on Rails developers.",
                   "children": [],
                   "repo_info": {
@@ -674,19 +674,19 @@
                     "last_commit": "2025-07-28T20:08:37Z",
                     "owner": "joemasilotti",
                     "repo": "railsdevs.com",
-                    "stars": 805
+                    "stars": 804
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/rubyforgood/human-essentials",
+                  "title": "rubyforgood/human-essentials",
                   "description": ". 47k lines. An inventory management system for essentials supply banks.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 89035461,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:50:41Z",
+                    "last_commit": "2026-08-25T01:33:48Z",
                     "owner": "rubyforgood",
                     "repo": "human-essentials",
                     "stars": 583
@@ -694,7 +694,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/rubyevents/rubyevents",
+                  "title": "rubyevents/rubyevents",
                   "description": ". 11k lines. Index of Ruby events and videos.",
                   "children": [],
                   "repo_info": {
@@ -709,7 +709,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/AllYourBot/hostedgpt",
+                  "title": "AllYourBot/hostedgpt",
                   "description": ". 16k lines. Self-hosted ChatGPT alternative.",
                   "children": [],
                   "repo_info": {
@@ -719,12 +719,12 @@
                     "last_commit": "2026-08-22T16:10:37Z",
                     "owner": "AllYourBot",
                     "repo": "hostedgpt",
-                    "stars": 510
+                    "stars": 509
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/RailsEventStore/ecommerce",
+                  "title": "RailsEventStore/ecommerce",
                   "description": ". 17k lines. Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.",
                   "children": [],
                   "repo_info": {
@@ -739,7 +739,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/rubyforgood/casa",
+                  "title": "rubyforgood/casa",
                   "description": ". 44k lines. Volunteer management system for the nonprofit CASA.",
                   "children": [],
                   "repo_info": {
@@ -749,12 +749,12 @@
                     "last_commit": "2026-08-20T19:52:08Z",
                     "owner": "rubyforgood",
                     "repo": "casa",
-                    "stars": 375
+                    "stars": 374
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/thoughtbot/upcase",
+                  "title": "thoughtbot/upcase",
                   "description": ". 14k lines. Learning platform for developers.",
                   "children": [],
                   "repo_info": {
@@ -769,7 +769,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/rauversion/rauversion",
+                  "title": "rauversion/rauversion",
                   "description": ". 20k lines. Music platform.",
                   "children": [],
                   "repo_info": {
@@ -784,7 +784,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/chicago-tool-library/circulate",
+                  "title": "chicago-tool-library/circulate",
                   "description": ". 26k lines. A lending library management system.",
                   "children": [],
                   "repo_info": {
@@ -799,7 +799,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/rubyforgood/homeward-tails",
+                  "title": "rubyforgood/homeward-tails",
                   "description": ". 15k lines. Connects adopters/fosters with pets.",
                   "children": [],
                   "repo_info": {
@@ -814,7 +814,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/ChaelCodes/MeetAnotherDay",
+                  "title": "ChaelCodes/MeetAnotherDay",
                   "description": ". 4k lines. Helps you find and meet up with your friends at conferences.",
                   "children": [],
                   "repo_info": {
@@ -829,7 +829,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/garyharan/fresh",
+                  "title": "garyharan/fresh",
                   "description": "plus github.com/garyharan/FreshAppIOS and github.com/garyharan/FreshAppAndroid. 4k lines. Dating app using Hotwire Native.",
                   "children": [],
                   "repo_info": {
@@ -844,7 +844,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/nshki/naisho",
+                  "title": "nshki/naisho",
                   "description": ". <2k lines. Send personal data deletion request emails to hundreds of data brokers at once.",
                   "children": [],
                   "repo_info": {
@@ -859,7 +859,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/carsoncole/workypad",
+                  "title": "carsoncole/workypad",
                   "description": ". 2k lines. App for managing job prospecting.",
                   "children": [],
                   "repo_info": {
@@ -874,14 +874,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/galahq/gala",
+                  "title": "galahq/gala",
                   "description": ". 15k lines. Collaborative learning platform.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 69495513,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T04:41:00Z",
+                    "last_commit": "2026-08-24T19:37:20Z",
                     "owner": "galahq",
                     "repo": "gala",
                     "stars": 15
@@ -889,7 +889,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/demingfactor/calagator",
+                  "title": "demingfactor/calagator",
                   "description": ". 9k lines. Community calendar platform.",
                   "children": [],
                   "repo_info": {
@@ -911,97 +911,97 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "github.com/mastodon/mastodon",
+                  "title": "mastodon/mastodon",
                   "description": ". 117k lines. Like Twitter but self-hosted and federated.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 52281283,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T14:13:21Z",
+                    "last_commit": "2026-08-25T04:30:14Z",
                     "owner": "mastodon",
                     "repo": "mastodon",
-                    "stars": 50245
+                    "stars": 50246
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/discourse/discourse",
+                  "title": "discourse/discourse",
                   "description": ". 514k lines. Discussion forum platform. Has an Ember.js front end.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 7569578,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T14:16:59Z",
+                    "last_commit": "2026-08-25T06:08:50Z",
                     "owner": "discourse",
                     "repo": "discourse",
-                    "stars": 47718
+                    "stars": 47723
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/chatwoot/chatwoot",
+                  "title": "chatwoot/chatwoot",
                   "description": ". 74k lines. Customer engagement suite. Has a Vue.js front end.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 202291859,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:25:57Z",
+                    "last_commit": "2026-08-25T01:54:49Z",
                     "owner": "chatwoot",
                     "repo": "chatwoot",
-                    "stars": 36148
+                    "stars": 36180
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/forem/forem",
+                  "title": "forem/forem",
                   "description": ". 126k lines. Powers the blogging site dev.to. Uses Preact on the front end.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 73648678,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:38:23Z",
+                    "last_commit": "2026-08-24T18:58:10Z",
                     "owner": "forem",
                     "repo": "forem",
-                    "stars": 22770
+                    "stars": 22771
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/opf/openproject",
+                  "title": "opf/openproject",
                   "description": ". 479k lines. Project management software.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 6899875,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T14:08:49Z",
+                    "last_commit": "2026-08-25T06:09:22Z",
                     "owner": "opf",
                     "repo": "openproject",
-                    "stars": 15917
+                    "stars": 15923
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/antiwork/gumroad",
+                  "title": "antiwork/gumroad",
                   "description": ". 323k lines. E-commerce platform.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 959682770,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T14:15:49Z",
+                    "last_commit": "2026-08-25T03:46:14Z",
                     "owner": "antiwork",
                     "repo": "gumroad",
-                    "stars": 9614
+                    "stars": 9617
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/instructure/canvas-lms",
+                  "title": "instructure/canvas-lms",
                   "description": ". 891k lines. A popular LMS (learning management system).",
                   "children": [],
                   "repo_info": {
@@ -1011,42 +1011,42 @@
                     "last_commit": "2026-04-30T14:52:10Z",
                     "owner": "instructure",
                     "repo": "canvas-lms",
-                    "stars": 6785
+                    "stars": 6784
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/redmine/redmine",
+                  "title": "redmine/redmine",
                   "description": ". 118k lines. Project management app.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 6768710,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T06:00:08Z",
+                    "last_commit": "2026-08-25T05:50:12Z",
                     "owner": "redmine",
                     "repo": "redmine",
-                    "stars": 6021
+                    "stars": 6020
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/zammad/zammad",
+                  "title": "zammad/zammad",
                   "description": ". 299k lines. Helpdesk/customer support system.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 3898922,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:30:59Z",
+                    "last_commit": "2026-08-25T05:52:54Z",
                     "owner": "zammad",
                     "repo": "zammad",
-                    "stars": 5863
+                    "stars": 5862
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/solidusio/solidus",
+                  "title": "solidusio/solidus",
                   "description": ". 98k lines. E-commerce platform.",
                   "children": [],
                   "repo_info": {
@@ -1061,14 +1061,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/rubygems/rubygems.org",
+                  "title": "rubygems/rubygems.org",
                   "description": ". 56k lines. Where Ruby gems are hosted.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 117646,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T06:03:14Z",
+                    "last_commit": "2026-08-25T04:32:11Z",
                     "owner": "rubygems",
                     "repo": "rubygems.org",
                     "stars": 2437
@@ -1076,14 +1076,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/decidim/decidim",
+                  "title": "decidim/decidim",
                   "description": ". 294k lines. The participatory democracy framework.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 65914086,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T04:15:13Z",
+                    "last_commit": "2026-08-25T01:29:44Z",
                     "owner": "decidim",
                     "repo": "decidim",
                     "stars": 1807
@@ -1091,29 +1091,29 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/openfoodfoundation/openfoodnetwork",
+                  "title": "openfoodfoundation/openfoodnetwork",
                   "description": ". 129k lines. An online marketplace for local food.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 6257856,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:13:42Z",
+                    "last_commit": "2026-08-25T03:18:35Z",
                     "owner": "openfoodfoundation",
                     "repo": "openfoodnetwork",
-                    "stars": 1275
+                    "stars": 1274
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/alphagov/whitehall",
+                  "title": "alphagov/whitehall",
                   "description": ". 110k lines. Publishes government content on gov.uk.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 2416064,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T14:06:44Z",
+                    "last_commit": "2026-08-24T16:06:12Z",
                     "owner": "alphagov",
                     "repo": "whitehall",
                     "stars": 1024
@@ -1121,7 +1121,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "github.com/WikiEducationFoundation/WikiEduDashboard",
+                  "title": "WikiEducationFoundation/WikiEduDashboard",
                   "description": ". 59k lines. Wikipedia course dashboard system. Has a React front end.",
                   "children": [],
                   "repo_info": {
@@ -1131,7 +1131,7 @@
                     "last_commit": "2026-08-24T12:24:02Z",
                     "owner": "WikiEducationFoundation",
                     "repo": "WikiEduDashboard",
-                    "stars": 428
+                    "stars": 427
                   }
                 }
               ]
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:26.033Z",
+    "last_updated": "2026-08-25T06:09:33.085Z",
     "original_repository": "fpsvogel/learn-ruby",
     "original_repository_id": 368956146,
     "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
