@@ -17,12 +17,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLI tool for Advent of Code in Ruby",
+                    "homepage": null,
                     "id": 844592188,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-02-18T15:32:03Z",
+                    "open_issues": 0,
                     "owner": "fpsvogel",
                     "repo": "advent_of_ruby",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "advent-of-code",
+                      "aoc",
+                      "cli",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -40,12 +50,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A next-generation progressive site generator & fullstack framework, powered by Ruby",
+                    "homepage": "https://www.bridgetownrb.com",
                     "id": 253678724,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T16:44:47Z",
+                    "open_issues": 50,
                     "owner": "bridgetownrb",
                     "repo": "bridgetown",
-                    "stars": 1365
+                    "stars": 1365,
+                    "topics": [
+                      "blog-engine",
+                      "bridgetown",
+                      "documentation-tool",
+                      "esbuild",
+                      "jamstack",
+                      "ruby",
+                      "static-site-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -70,12 +93,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for the Testing Rails book",
+                    "homepage": null,
                     "id": 33274322,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-04T17:58:54Z",
+                    "open_issues": 13,
                     "owner": "thoughtbot",
                     "repo": "testing-rails",
-                    "stars": 289
+                    "stars": 289,
+                    "topics": [
+                      "book"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -101,12 +131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flight rules for git",
+                "homepage": null,
                 "id": 22119721,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-07-23T20:48:50Z",
+                "open_issues": 14,
                 "owner": "k88hudson",
                 "repo": "git-flight-rules",
-                "stars": 42599
+                "stars": 42600,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             },
@@ -117,12 +152,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of exercises for deliberate Git Practice",
+                "homepage": null,
                 "id": 67723575,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-01-26T09:07:32Z",
+                "open_issues": 64,
                 "owner": "eficode-academy",
                 "repo": "git-katas",
-                "stars": 1671
+                "stars": 1671,
+                "topics": [
+                  "git",
+                  "git-exercises",
+                  "git-katas",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             }
@@ -146,12 +191,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Listing of accessible components & patterns",
+                "homepage": "https://scottaohara.github.io/accessible_components/",
                 "id": 21978103,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-12T18:00:13Z",
+                "open_issues": 0,
                 "owner": "scottaohara",
                 "repo": "accessible_components",
-                "stars": 696
+                "stars": 696,
+                "topics": [
+                  "a11y",
+                  "accessibility",
+                  "aria",
+                  "html",
+                  "javascript",
+                  "patterns",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             }
@@ -174,12 +232,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "👾 The lightest signal library",
+                    "homepage": "https://npmjs.com/package/alien-signals",
                     "id": 707495991,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-06-10T12:29:02Z",
+                    "open_issues": 5,
                     "owner": "stackblitz",
                     "repo": "alien-signals",
-                    "stars": 3237
+                    "stars": 3237,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -197,12 +260,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
+                    "homepage": null,
                     "id": 266582853,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T23:33:38Z",
+                    "open_issues": 72,
                     "owner": "gvergnaud",
                     "repo": "ts-pattern",
-                    "stars": 15139
+                    "stars": 15139,
+                    "topics": [
+                      "branching",
+                      "conditions",
+                      "exhaustive",
+                      "inference",
+                      "javascript",
+                      "matching",
+                      "pattern",
+                      "pattern-matching",
+                      "ts",
+                      "type-inference",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -227,12 +307,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Exploring Turbo features and extensions while building a music library app",
+                    "homepage": "https://turbo-music-drive.fly.dev",
                     "id": 702756054,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2025-04-08T17:40:45Z",
+                    "open_issues": 0,
                     "owner": "palkan",
                     "repo": "turbo-music-drive",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": [
+                      "hotwire",
+                      "morphing",
+                      "rails",
+                      "viewtransitions"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -250,12 +340,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use Turbo in your Ruby on Rails app",
+                    "homepage": "https://turbo.hotwired.dev",
                     "id": 317981738,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-07-01T18:18:50Z",
+                    "open_issues": 127,
                     "owner": "hotwired",
                     "repo": "turbo-rails",
-                    "stars": 2389
+                    "stars": 2389,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -266,12 +361,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of branches that transmit HTML over the wire.",
+                    "homepage": null,
                     "id": 354713589,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2025-01-04T14:01:02Z",
+                    "open_issues": 4,
                     "owner": "thoughtbot",
                     "repo": "hotwire-example-template",
-                    "stars": 1076
+                    "stars": 1076,
+                    "topics": [
+                      "hotwire",
+                      "rails",
+                      "stimulus",
+                      "turbo"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -302,12 +407,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An awesome asynchronous event-driven reactor for Ruby.",
+                    "homepage": null,
                     "id": 87380483,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T18:00:43Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:15:54Z",
+                    "open_issues": 25,
                     "owner": "socketry",
                     "repo": "async",
-                    "stars": 2460
+                    "stars": 2460,
+                    "topics": [
+                      "async",
+                      "asynchronous",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -332,12 +446,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple, efficient background processing for Ruby",
+                    "homepage": "https://sidekiq.org",
                     "id": 3195124,
                     "language": "Ruby",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-17T17:39:39Z",
+                    "open_issues": 22,
                     "owner": "sidekiq",
                     "repo": "sidekiq",
-                    "stars": 13553
+                    "stars": 13553,
+                    "topics": [
+                      "background-jobs",
+                      "jobs",
+                      "ruby",
+                      "sidekiq"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -363,12 +487,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
+                "homepage": "https://github.com/Yegorov/awesome-ruby-blogs",
                 "id": 232576649,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-07-09T08:23:32Z",
+                "open_issues": 0,
                 "owner": "Yegorov",
                 "repo": "awesome-ruby-blogs",
-                "stars": 415
+                "stars": 415,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "blogs",
+                  "curated-list",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             }
@@ -386,12 +522,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight framework for creating cross-platform games with Ruby.",
+                "homepage": null,
                 "id": 1125061697,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-16T23:21:50Z",
+                "open_issues": 1,
                 "owner": "ColdGlassOMilk",
                 "repo": "GMR",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             },
@@ -402,12 +543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 181359485,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-23T16:37:13Z",
+                "open_issues": 0,
                 "owner": "castwide",
                 "repo": "gamefic-sdk",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             }
@@ -425,12 +571,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Ruby and Rails Open Source applications 🌈",
+                "homepage": null,
                 "id": 335809595,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-30T06:53:52Z",
+                "open_issues": 6,
                 "owner": "asyraffff",
                 "repo": "Open-Source-Ruby-and-Rails-Apps",
-                "stars": 1259
+                "stars": 1259,
+                "topics": [
+                  "boilerplate",
+                  "cms",
+                  "crm",
+                  "ecommerce",
+                  "rails",
+                  "rails-api",
+                  "rails-application",
+                  "rails-backend",
+                  "rails-boilerplate",
+                  "rails-cms",
+                  "rails-engine",
+                  "rails-templates",
+                  "rails-tutorial",
+                  "react",
+                  "react-rails",
+                  "ruby",
+                  "ruby-gem",
+                  "ruby-on-rails",
+                  "rubygems",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             },
@@ -441,12 +613,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "200+ production open source Rails apps & engines in one repo. Search across real codebases with AI agents to research architectural patterns.",
+                "homepage": null,
                 "id": 1164951586,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T16:03:38Z",
+                "open_issues": 0,
                 "owner": "steveclarke",
                 "repo": "real-world-rails",
-                "stars": 538
+                "stars": 538,
+                "topics": [
+                  "ai-agents",
+                  "code-patterns",
+                  "learning",
+                  "open-source",
+                  "rails",
+                  "real-world",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:25:28.929Z"
             },
@@ -462,12 +647,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The personal finance app for everyone",
+                    "homepage": null,
                     "id": 737898780,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2025-07-24T22:20:44Z",
+                    "open_issues": 0,
                     "owner": "maybe-finance",
                     "repo": "maybe",
-                    "stars": 54313
+                    "stars": 54314,
+                    "topics": [
+                      "finance",
+                      "hotwire",
+                      "personal-finance",
+                      "postgresql",
+                      "ruby",
+                      "ruby-on-rails",
+                      "stimulusjs",
+                      "turbo"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -478,12 +677,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+                    "homepage": null,
                     "id": 8681349,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T02:43:21Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:43:12Z",
+                    "open_issues": 697,
                     "owner": "huginn",
                     "repo": "huginn",
-                    "stars": 49863
+                    "stars": 49864,
+                    "topics": [
+                      "agent",
+                      "automation",
+                      "feed",
+                      "feedgenerator",
+                      "huginn",
+                      "monitoring",
+                      "notifications",
+                      "rss",
+                      "scraper",
+                      "twitter",
+                      "twitter-streaming",
+                      "webscraping"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -494,12 +711,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+                    "homepage": "https://www.docuseal.com",
                     "id": 661850205,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-25T11:33:36Z",
+                    "open_issues": 120,
                     "owner": "docusealco",
                     "repo": "docuseal",
-                    "stars": 18397
+                    "stars": 18398,
+                    "topics": [
+                      "document-signing",
+                      "documents",
+                      "e-signature",
+                      "hotwired-turbo",
+                      "open-source",
+                      "pdf",
+                      "pdf-sign",
+                      "pdf-signature",
+                      "ruby-on-rails",
+                      "self-hosted",
+                      "tailwindcss",
+                      "vue",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -510,12 +746,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Computing-focused community centered around link aggregation and discussion",
+                    "homepage": "https://lobste.rs",
                     "id": 5543112,
                     "language": "Ruby",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-17T21:02:33Z",
+                    "open_issues": 263,
                     "owner": "lobsters",
                     "repo": "lobsters",
-                    "stars": 4819
+                    "stars": 4819,
+                    "topics": [
+                      "aggregator",
+                      "forum",
+                      "hacktoberfest",
+                      "rails",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -526,12 +773,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Main website for The Odin Project",
+                    "homepage": "https://www.theodinproject.com",
                     "id": 10088951,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T10:53:20Z",
+                    "open_issues": 51,
                     "owner": "TheOdinProject",
                     "repo": "theodinproject",
-                    "stars": 4594
+                    "stars": 4594,
+                    "topics": [
+                      "curriculum",
+                      "odin",
+                      "ruby",
+                      "ruby-on-rails",
+                      "theodinproject"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -542,12 +800,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Super simple group chat, without a subscription",
+                    "homepage": "https://once.com/campfire",
                     "id": 1038494975,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T18:44:41Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T23:48:22Z",
+                    "open_issues": 35,
                     "owner": "basecamp",
                     "repo": "once-campfire",
-                    "stars": 4548
+                    "stars": 4549,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -558,12 +821,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A nice place to read on the web.",
+                    "homepage": "https://feedbin.com",
                     "id": 12335495,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T21:52:06Z",
+                    "open_issues": 181,
                     "owner": "feedbin",
                     "repo": "feedbin",
-                    "stars": 3778
+                    "stars": 3778,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -574,12 +842,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Spina CMS",
+                    "homepage": "http://www.spinacms.com",
                     "id": 31666151,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-16T17:27:58Z",
+                    "open_issues": 14,
                     "owner": "SpinaCMS",
                     "repo": "Spina",
-                    "stars": 2257
+                    "stars": 2257,
+                    "topics": [
+                      "cms",
+                      "gem",
+                      "rails",
+                      "rails5",
+                      "ruby",
+                      "spina",
+                      "spina-cms",
+                      "spina-gem",
+                      "website"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -590,12 +873,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free, open source mental health communication web app to share experiences with loved ones",
+                    "homepage": "http://www.if-me.org/",
                     "id": 18935740,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-10T00:02:25Z",
+                    "open_issues": 26,
                     "owner": "ifmeorg",
                     "repo": "ifme",
-                    "stars": 1636
+                    "stars": 1636,
+                    "topics": [
+                      "capybara",
+                      "community-driven",
+                      "flow",
+                      "free-software",
+                      "hacktoberfest",
+                      "html",
+                      "i18n",
+                      "javascript",
+                      "jest",
+                      "mental-health",
+                      "rails",
+                      "react",
+                      "react-testing-library",
+                      "rspec",
+                      "ruby",
+                      "ruby-on-rails",
+                      "scss",
+                      "social-impact",
+                      "storybook",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -606,12 +915,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Discover the best way to get started contributing to Open Source projects",
+                    "homepage": "https://www.codetriage.com",
                     "id": 5130966,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-02T05:03:24Z",
+                    "open_issues": 103,
                     "owner": "codetriage",
                     "repo": "CodeTriage",
-                    "stars": 1465
+                    "stars": 1465,
+                    "topics": [
+                      "open-source",
+                      "rails",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -622,12 +940,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CircuitVerse Primary Code Base",
+                    "homepage": "https://circuitverse.org",
                     "id": 153442864,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T08:23:53Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:12:47Z",
+                    "open_issues": 945,
                     "owner": "CircuitVerse",
                     "repo": "CircuitVerse",
-                    "stars": 1249
+                    "stars": 1249,
+                    "topics": [
+                      "circuitverse",
+                      "digital-circuit-design",
+                      "digital-circuits",
+                      "educational-software",
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -638,12 +967,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A UI development environment for Ruby on Rails apps ",
+                    "homepage": "https://lookbook.build",
                     "id": 380261205,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-13T07:30:20Z",
+                    "open_issues": 27,
                     "owner": "lookbook-hq",
                     "repo": "lookbook",
-                    "stars": 1092
+                    "stars": 1092,
+                    "topics": [
+                      "components",
+                      "development",
+                      "lookbook",
+                      "partials",
+                      "phlex",
+                      "rails",
+                      "ruby",
+                      "ruby-on-rails",
+                      "styleguide",
+                      "viewcomponent"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -654,12 +999,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Eigenfocus - Project Management tool without the clutter.",
+                    "homepage": "https://eigenfocus.com",
                     "id": 912575383,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T03:13:48Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T00:35:16Z",
+                    "open_issues": 1,
                     "owner": "Eigenfocus",
                     "repo": "eigenfocus",
-                    "stars": 943
+                    "stars": 943,
+                    "topics": [
+                      "focus-management",
+                      "issue-tracker",
+                      "kanban-boards",
+                      "pomodoro-timer",
+                      "project-management",
+                      "self-hosted",
+                      "time-tracker-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -670,12 +1028,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.",
+                    "homepage": "http://osem.io",
                     "id": 5911225,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T05:16:49Z",
+                    "open_issues": 245,
                     "owner": "openSUSE",
                     "repo": "osem",
-                    "stars": 925
+                    "stars": 925,
+                    "topics": [
+                      "conference",
+                      "conferences",
+                      "events",
+                      "hacktoberfest",
+                      "osem",
+                      "rails",
+                      "rails-application",
+                      "ruby",
+                      "schedule"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -686,12 +1059,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Alchemy is the Open Source Rails CMS framework for the component based web that can be used as classic server side rendered or headless CMS.",
+                    "homepage": "https://www.alchemy-cms.com",
                     "id": 1581769,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T20:40:16Z",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-08-28T22:43:19Z",
+                    "open_issues": 4,
                     "owner": "AlchemyCMS",
                     "repo": "alchemy_cms",
-                    "stars": 907
+                    "stars": 907,
+                    "topics": [
+                      "admin",
+                      "alchemy-cms",
+                      "cms",
+                      "content-management-system",
+                      "rails",
+                      "rails-engine",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -702,12 +1088,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The reverse job board for Ruby on Rails developers.",
+                    "homepage": "https://railsdevs.com",
                     "id": 419827947,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2025-07-28T20:08:37Z",
+                    "open_issues": 7,
                     "owner": "joemasilotti",
                     "repo": "railsdevs.com",
-                    "stars": 804
+                    "stars": 804,
+                    "topics": [
+                      "hacktoberfest",
+                      "rails",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -718,12 +1113,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Human Essentials is an inventory management system for diaper, incontinence, and period-supply banks. It supports them in distributing to partners, tracking inventory, and reporting stats and analytics.",
+                    "homepage": "https://humanessentials.app",
                     "id": 89035461,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T21:14:18Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:10:58Z",
+                    "open_issues": 75,
                     "owner": "rubyforgood",
                     "repo": "human-essentials",
-                    "stars": 583
+                    "stars": 583,
+                    "topics": [
+                      "hacktoberfest",
+                      "help-wanted",
+                      "non-profit",
+                      "open-source",
+                      "rails",
+                      "rubyforgood",
+                      "sdg-1",
+                      "sdg-10",
+                      "sdg-3"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -734,12 +1144,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "On a mission to index all Ruby events.",
+                    "homepage": "https://rubyevents.org",
                     "id": 654539568,
                     "language": "Ruby",
+                    "license": null,
                     "last_commit": "2026-08-28T11:07:20Z",
+                    "open_issues": 126,
                     "owner": "rubyevents",
                     "repo": "rubyevents",
-                    "stars": 565
+                    "stars": 566,
+                    "topics": [
+                      "conferences",
+                      "events",
+                      "hacktoberfest",
+                      "meetups",
+                      "rails",
+                      "ruby",
+                      "ruby-conferences",
+                      "ruby-meetups",
+                      "rubyevents"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -750,12 +1175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open version of ChatGPT you can host anywhere or run locally.",
+                    "homepage": null,
                     "id": 732756873,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T20:49:05Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:19:10Z",
+                    "open_issues": 49,
                     "owner": "AllYourBot",
                     "repo": "hostedgpt",
-                    "stars": 510
+                    "stars": 510,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -766,12 +1196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Application with CQRS and Event Sourcing built on Rails and Rails Event Store",
+                    "homepage": null,
                     "id": 195810494,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T19:05:38Z",
+                    "open_issues": 57,
                     "owner": "RailsEventStore",
                     "repo": "ecommerce",
-                    "stars": 505
+                    "stars": 505,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -782,12 +1217,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.",
+                    "homepage": "https://casavolunteertracking.org/",
                     "id": 248407953,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T20:49:27Z",
+                    "open_issues": 55,
                     "owner": "rubyforgood",
                     "repo": "casa",
-                    "stars": 374
+                    "stars": 374,
+                    "topics": [
+                      "casa",
+                      "casa-chapters",
+                      "casa-volunteers",
+                      "docker",
+                      "foster-youth",
+                      "hacktoberfest",
+                      "jquery",
+                      "montgomery-county",
+                      "non-profit",
+                      "open-source",
+                      "pg-casa",
+                      "prince-george-county",
+                      "pundit",
+                      "rails",
+                      "rails7",
+                      "ruby",
+                      "rubyforgood",
+                      "volunteer-management"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -798,12 +1257,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sharpen your programming skills.",
+                    "homepage": "https://thoughtbot.com/upcase",
                     "id": 245397,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-02-10T16:23:22Z",
+                    "open_issues": 19,
                     "owner": "thoughtbot",
                     "repo": "upcase",
-                    "stars": 338
+                    "stars": 338,
+                    "topics": [
+                      "product"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -814,12 +1280,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source Music Multiverses",
+                    "homepage": "https://rauversion.com",
                     "id": 671606282,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-21T06:28:35Z",
+                    "open_issues": 6,
                     "owner": "rauversion",
                     "repo": "rauversion",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": [
+                      "events-manager",
+                      "hotwire",
+                      "magazine",
+                      "music",
+                      "streaming-audio"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -830,12 +1307,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lending library management system",
+                    "homepage": null,
                     "id": 180914914,
                     "language": "Ruby",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T01:06:58Z",
+                    "open_issues": 171,
                     "owner": "chicago-tool-library",
                     "repo": "circulate",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "lending-library",
+                      "rails",
+                      "ruby",
+                      "ruby-on-rails",
+                      "tool-library"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -846,12 +1334,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Homeward Tails is an application making it easy to link adopters/fosters with pets. We work with grassroots pet rescue organizations to understand how we can make the most impact.",
+                    "homepage": null,
                     "id": 669934372,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2026-01-30T03:41:19Z",
+                    "open_issues": 21,
                     "owner": "rubyforgood",
                     "repo": "homeward-tails",
-                    "stars": 94
+                    "stars": 94,
+                    "topics": [
+                      "rails"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -862,12 +1357,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An app to help you find and meet up with your friends at conferences.",
+                    "homepage": "https://meetanother.day",
                     "id": 372263341,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-02-07T06:22:30Z",
+                    "open_issues": 22,
                     "owner": "ChaelCodes",
                     "repo": "MeetAnotherDay",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "rails",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -878,12 +1381,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample Dating App using Rails and Hotwire Native",
+                    "homepage": "https://fresh.dating",
                     "id": 553033169,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-17T19:00:37Z",
+                    "open_issues": 11,
                     "owner": "garyharan",
                     "repo": "fresh",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -894,12 +1402,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Send personal data deletion request emails to hundreds of data brokers at once.",
+                    "homepage": "https://naisho.app",
                     "id": 812882841,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T03:47:00Z",
+                    "open_issues": 1,
                     "owner": "nshki",
                     "repo": "naisho",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": [
+                      "data",
+                      "privacy",
+                      "rails"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -910,12 +1427,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby on Rails web application for managing job prospecting using Ruby on Rails 7, Stimulus, and Hotwire.",
+                    "homepage": "https://workypad.com",
                     "id": 721747362,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2024-01-16T15:15:48Z",
+                    "open_issues": 0,
                     "owner": "carsoncole",
                     "repo": "workypad",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "jobhunting",
+                      "jobsearch",
+                      "ruby-on-rails",
+                      "ruby-on-rails-7",
+                      "tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -926,12 +1454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open tool for collaboratively authoring, teaching, and learning with learning modules.",
+                    "homepage": "https://www.learngala.com",
                     "id": 69495513,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T17:05:56Z",
+                    "open_issues": 34,
                     "owner": "galahq",
                     "repo": "gala",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -942,12 +1475,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open source community calendar platform written in Ruby on Rails",
+                    "homepage": "https://calagator.org",
                     "id": 543454574,
                     "language": "Ruby",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-26T06:38:52Z",
+                    "open_issues": 0,
                     "owner": "demingfactor",
                     "repo": "calagator",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -965,12 +1503,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Your self-hosted, globally interconnected microblogging community",
+                    "homepage": "https://joinmastodon.org",
                     "id": 52281283,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T20:01:45Z",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-29T04:29:02Z",
+                    "open_issues": 4509,
                     "owner": "mastodon",
                     "repo": "mastodon",
-                    "stars": 50257
+                    "stars": 50255,
+                    "topics": [
+                      "activity-stream",
+                      "activitypub",
+                      "docker",
+                      "fediverse",
+                      "mastodon",
+                      "microblog",
+                      "social-network",
+                      "social-web",
+                      "webfinger"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -981,12 +1534,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A platform for community discussion. Free, open, simple.",
+                    "homepage": "https://www.discourse.org",
                     "id": 7569578,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T21:01:30Z",
+                    "license": "GPL-2.0",
+                    "last_commit": "2026-08-29T03:20:04Z",
+                    "open_issues": 281,
                     "owner": "discourse",
                     "repo": "discourse",
-                    "stars": 47750
+                    "stars": 47750,
+                    "topics": [
+                      "discourse",
+                      "ember",
+                      "forum",
+                      "javascript",
+                      "postgresql",
+                      "rails",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -997,12 +1563,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+                    "homepage": "https://www.chatwoot.com/help-center",
                     "id": 202291859,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T18:46:17Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T23:36:53Z",
+                    "open_issues": 1350,
                     "owner": "chatwoot",
                     "repo": "chatwoot",
-                    "stars": 36282
+                    "stars": 36285,
+                    "topics": [
+                      "actioncable",
+                      "chat-widget",
+                      "conversation",
+                      "customer-support",
+                      "dashboard",
+                      "design",
+                      "docker",
+                      "docker-image",
+                      "heroku",
+                      "intercom",
+                      "javascript",
+                      "livechat",
+                      "opensource",
+                      "rails",
+                      "ruby",
+                      "sass",
+                      "vuejs",
+                      "whatsapp",
+                      "zendesk"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1013,12 +1604,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "For empowering community 🌱",
+                    "homepage": "https://forem.com",
                     "id": 73648678,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T20:34:52Z",
+                    "open_issues": 127,
                     "owner": "forem",
                     "repo": "forem",
-                    "stars": 22773
+                    "stars": 22774,
+                    "topics": [
+                      "community",
+                      "discussion",
+                      "feedback",
+                      "hacktoberfest",
+                      "open-source",
+                      "rails",
+                      "ruby"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1029,12 +1633,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
+                    "homepage": "https://www.openproject.org",
                     "id": 6899875,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T19:35:04Z",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-08-29T03:37:36Z",
+                    "open_issues": 226,
                     "owner": "opf",
                     "repo": "openproject",
-                    "stars": 15963
+                    "stars": 15964,
+                    "topics": [
+                      "agile-development",
+                      "angular",
+                      "bcf",
+                      "boards",
+                      "bug-tracker",
+                      "gantt",
+                      "gantt-chart",
+                      "ifc",
+                      "issue-tracker",
+                      "jira-alternative",
+                      "kanban",
+                      "openproject",
+                      "product-management",
+                      "project-management",
+                      "project-planning",
+                      "roadmap",
+                      "ruby",
+                      "scrum",
+                      "timeline",
+                      "workflows"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1045,12 +1675,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "See what sticks",
+                    "homepage": "https://gumroad.com",
                     "id": 959682770,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T21:24:30Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T04:02:52Z",
+                    "open_issues": 5,
                     "owner": "antiwork",
                     "repo": "gumroad",
-                    "stars": 9632
+                    "stars": 9632,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1061,12 +1696,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The open LMS by Instructure, Inc.",
+                    "homepage": "https://github.com/instructure/canvas-lms/wiki",
                     "id": 1314319,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-04-30T14:52:10Z",
+                    "open_issues": 467,
                     "owner": "instructure",
                     "repo": "canvas-lms",
-                    "stars": 6789
+                    "stars": 6789,
+                    "topics": [
+                      "canvas-lms",
+                      "gerrit-mirror",
+                      "instructure"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1077,12 +1721,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp",
+                    "homepage": "https://www.redmine.org",
                     "id": 6768710,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T05:25:08Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T02:20:07Z",
+                    "open_issues": 3,
                     "owner": "redmine",
                     "repo": "redmine",
-                    "stars": 6023
+                    "stars": 6023,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1093,12 +1742,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zammad is a web based open source helpdesk/customer support system.",
+                    "homepage": "https://zammad.org",
                     "id": 3898922,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T13:33:49Z",
+                    "open_issues": 452,
                     "owner": "zammad",
                     "repo": "zammad",
-                    "stars": 5872
+                    "stars": 5872,
+                    "topics": [
+                      "coffeescript",
+                      "customer-care",
+                      "customer-support",
+                      "graphql",
+                      "helpdesk",
+                      "javascript",
+                      "rails",
+                      "ruby",
+                      "support",
+                      "ticketing",
+                      "typescript",
+                      "vite",
+                      "vuejs",
+                      "zammad"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1109,12 +1778,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🛒 Solidus, the open-source eCommerce framework for industry trailblazers.",
+                    "homepage": "https://solidus.io",
                     "id": 30985840,
                     "language": "Ruby",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T08:04:41Z",
+                    "open_issues": 109,
                     "owner": "solidusio",
                     "repo": "solidus",
-                    "stars": 5323
+                    "stars": 5324,
+                    "topics": [
+                      "ecommerce",
+                      "ecommerce-framework",
+                      "ecommerce-platform",
+                      "hacktoberfest",
+                      "rails",
+                      "ruby",
+                      "solidus",
+                      "storefront"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1125,12 +1808,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Ruby community's gem hosting service.",
+                    "homepage": "https://rubygems.org",
                     "id": 117646,
                     "language": "Ruby",
-                    "last_commit": "2026-08-28T20:38:27Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T00:19:50Z",
+                    "open_issues": 113,
                     "owner": "rubygems",
                     "repo": "rubygems.org",
-                    "stars": 2438
+                    "stars": 2438,
+                    "topics": [
+                      "package-manager",
+                      "ruby",
+                      "rubygems"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1141,12 +1833,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails",
+                    "homepage": "https://decidim.org/",
                     "id": 65914086,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T02:56:14Z",
+                    "open_issues": 360,
                     "owner": "decidim",
                     "repo": "decidim",
-                    "stars": 1809
+                    "stars": 1809,
+                    "topics": [
+                      "citizen-participation",
+                      "civic-tech",
+                      "civictech",
+                      "collective-intelligence",
+                      "community",
+                      "decidim",
+                      "democracy",
+                      "digital-public-goods",
+                      "digital-public-infrastructure",
+                      "dpg",
+                      "government",
+                      "govtech",
+                      "ideation",
+                      "participation",
+                      "stakeholder-engagement"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1157,12 +1870,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Connect suppliers, distributors and consumers to trade local produce.",
+                    "homepage": "https://www.openfoodnetwork.org",
                     "id": 6257856,
                     "language": "Ruby",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-28T09:40:31Z",
+                    "open_issues": 618,
                     "owner": "openfoodfoundation",
                     "repo": "openfoodnetwork",
-                    "stars": 1278
+                    "stars": 1278,
+                    "topics": [
+                      "farmers",
+                      "food",
+                      "food-hubs",
+                      "hacktoberfest",
+                      "nonprofit",
+                      "rails",
+                      "ruby",
+                      "sustainable-consumption"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1173,12 +1900,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Publishes government content on GOV.UK",
+                    "homepage": "https://docs.publishing.service.gov.uk/apps/whitehall.html",
                     "id": 2416064,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T15:27:56Z",
+                    "open_issues": 37,
                     "owner": "alphagov",
                     "repo": "whitehall",
-                    "stars": 1024
+                    "stars": 1024,
+                    "topics": [
+                      "govuk"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 },
@@ -1189,12 +1923,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wiki Education Foundation's Wikipedia course dashboard system",
+                    "homepage": "https://dashboard.wikiedu.org",
                     "id": 27940263,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T16:52:24Z",
+                    "open_issues": 315,
                     "owner": "WikiEducationFoundation",
                     "repo": "WikiEduDashboard",
-                    "stars": 427
+                    "stars": 427,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
                 }
@@ -1210,15 +1949,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:25:28.929Z",
+    "last_updated": "2026-08-29T04:35:16.954Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Learning resources for Ruby, Rails, and related skills.",
+      "homepage": "https://letslearnruby.com",
       "id": 368956146,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2026-07-09T20:23:00Z",
+      "open_issues": 0,
       "owner": "fpsvogel",
       "repo": "learn-ruby",
-      "stars": 852
+      "stars": 852,
+      "topics": [
+        "awesome-list",
+        "awesome-rails",
+        "awesome-ruby",
+        "book-list",
+        "books",
+        "bookshelf",
+        "curriculum",
+        "learning",
+        "practice",
+        "programming",
+        "rails",
+        "resources",
+        "ruby",
+        "ruby-on-rails",
+        "study-materials",
+        "tutorial",
+        "web-development"
+      ]
     },
     "original_repository_sha": "938bd5409aae33441b7033f005c9dabf969123ab",
     "enhanced_repository": "enhansome/enhansome-learn-ruby",
