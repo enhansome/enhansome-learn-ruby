@@ -136,8 +136,8 @@
                 "id": 22119721,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-07-23T20:48:50Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T22:21:27Z",
+                "open_issues": 14,
                 "owner": "k88hudson",
                 "repo": "git-flight-rules",
                 "stars": 42592,
@@ -148,7 +148,7 @@
             {
               "node_type": "item",
               "title": "Git Katas",
-              "description": null,
+              "description": "eficode-academy/git-katas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -241,7 +241,7 @@
                     "open_issues": 7,
                     "owner": "stackblitz",
                     "repo": "alien-signals",
-                    "stars": 3259,
+                    "stars": 3260,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
@@ -336,7 +336,7 @@
                 {
                   "node_type": "item",
                   "title": "turbo-rails \"Usage\" README section",
-                  "description": null,
+                  "description": "hotwired/turbo-rails",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -357,7 +357,7 @@
                 {
                   "node_type": "item",
                   "title": "thoughtbot - Hotwire examples",
-                  "description": null,
+                  "description": "thoughtbot/hotwire-example-template",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -442,7 +442,7 @@
                 {
                   "node_type": "item",
                   "title": "Sidekiq wiki",
-                  "description": null,
+                  "description": "sidekiq/sidekiq",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -567,7 +567,7 @@
             {
               "node_type": "item",
               "title": "Awesome Ruby and Rails Open Source Apps",
-              "description": null,
+              "description": "asyraffff/Open-Source-Ruby-and-Rails-Apps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -682,11 +682,11 @@
                     "id": 8681349,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T00:24:07Z",
+                    "last_commit": "2026-10-03T00:22:00Z",
                     "open_issues": 699,
                     "owner": "huginn",
                     "repo": "huginn",
-                    "stars": 50016,
+                    "stars": 50019,
                     "topics": [
                       "agent",
                       "automation",
@@ -720,7 +720,7 @@
                     "open_issues": 123,
                     "owner": "docusealco",
                     "repo": "docuseal",
-                    "stars": 18646,
+                    "stars": 18648,
                     "topics": [
                       "document-signing",
                       "documents",
@@ -778,8 +778,8 @@
                     "id": 1038494975,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T11:04:21Z",
-                    "open_issues": 33,
+                    "last_commit": "2026-10-02T19:36:30Z",
+                    "open_issues": 36,
                     "owner": "basecamp",
                     "repo": "once-campfire",
                     "stars": 4670,
@@ -803,7 +803,7 @@
                     "open_issues": 44,
                     "owner": "TheOdinProject",
                     "repo": "theodinproject",
-                    "stars": 4649,
+                    "stars": 4648,
                     "topics": [
                       "curriculum",
                       "odin",
@@ -945,8 +945,8 @@
                     "id": 153442864,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T22:16:10Z",
-                    "open_issues": 1007,
+                    "last_commit": "2026-10-02T22:12:47Z",
+                    "open_issues": 1010,
                     "owner": "CircuitVerse",
                     "repo": "CircuitVerse",
                     "stars": 1270,
@@ -1149,8 +1149,8 @@
                     "id": 654539568,
                     "language": "Ruby",
                     "license": null,
-                    "last_commit": "2026-10-02T16:27:34Z",
-                    "open_issues": 136,
+                    "last_commit": "2026-10-02T17:12:32Z",
+                    "open_issues": 135,
                     "owner": "rubyevents",
                     "repo": "rubyevents",
                     "stars": 568,
@@ -1180,8 +1180,8 @@
                     "id": 732756873,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T12:17:14Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-02T21:56:51Z",
+                    "open_issues": 43,
                     "owner": "AllYourBot",
                     "repo": "hostedgpt",
                     "stars": 512,
@@ -1508,11 +1508,11 @@
                     "id": 52281283,
                     "language": "Ruby",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T16:04:01Z",
-                    "open_issues": 4568,
+                    "last_commit": "2026-10-03T04:36:57Z",
+                    "open_issues": 4572,
                     "owner": "mastodon",
                     "repo": "mastodon",
-                    "stars": 50345,
+                    "stars": 50347,
                     "topics": [
                       "activity-stream",
                       "activitypub",
@@ -1539,11 +1539,11 @@
                     "id": 7569578,
                     "language": "Ruby",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-02T16:09:54Z",
+                    "last_commit": "2026-10-02T21:24:25Z",
                     "open_issues": 253,
                     "owner": "discourse",
                     "repo": "discourse",
-                    "stars": 47930,
+                    "stars": 47932,
                     "topics": [
                       "discourse",
                       "ember",
@@ -1569,10 +1569,10 @@
                     "language": "Ruby",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T13:32:01Z",
-                    "open_issues": 1529,
+                    "open_issues": 1530,
                     "owner": "chatwoot",
                     "repo": "chatwoot",
-                    "stars": 37434,
+                    "stars": 37449,
                     "topics": [
                       "actioncable",
                       "chat-widget",
@@ -1609,8 +1609,8 @@
                     "id": 73648678,
                     "language": "Ruby",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T15:52:56Z",
-                    "open_issues": 153,
+                    "last_commit": "2026-10-02T18:33:47Z",
+                    "open_issues": 152,
                     "owner": "forem",
                     "repo": "forem",
                     "stars": 22782,
@@ -1638,11 +1638,11 @@
                     "id": 6899875,
                     "language": "Ruby",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T16:29:11Z",
-                    "open_issues": 240,
+                    "last_commit": "2026-10-03T03:34:53Z",
+                    "open_issues": 245,
                     "owner": "opf",
                     "repo": "openproject",
-                    "stars": 16286,
+                    "stars": 16292,
                     "topics": [
                       "agile-development",
                       "angular",
@@ -1680,11 +1680,11 @@
                     "id": 959682770,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T16:36:34Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-10-03T04:29:29Z",
+                    "open_issues": 6,
                     "owner": "antiwork",
                     "repo": "gumroad",
-                    "stars": 9755,
+                    "stars": 9756,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:25:28.929Z"
@@ -1705,7 +1705,7 @@
                     "open_issues": 469,
                     "owner": "instructure",
                     "repo": "canvas-lms",
-                    "stars": 6855,
+                    "stars": 6857,
                     "topics": [
                       "canvas-lms",
                       "gerrit-mirror",
@@ -1813,7 +1813,7 @@
                     "id": 117646,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T05:51:13Z",
+                    "last_commit": "2026-10-02T19:00:52Z",
                     "open_issues": 93,
                     "owner": "rubygems",
                     "repo": "rubygems.org",
@@ -1842,7 +1842,7 @@
                     "open_issues": 392,
                     "owner": "decidim",
                     "repo": "decidim",
-                    "stars": 1826,
+                    "stars": 1827,
                     "topics": [
                       "citizen-participation",
                       "civic-tech",
@@ -1879,7 +1879,7 @@
                     "open_issues": 646,
                     "owner": "openfoodfoundation",
                     "repo": "openfoodnetwork",
-                    "stars": 1286,
+                    "stars": 1287,
                     "topics": [
                       "farmers",
                       "food",
@@ -1909,7 +1909,7 @@
                     "open_issues": 43,
                     "owner": "alphagov",
                     "repo": "whitehall",
-                    "stars": 1030,
+                    "stars": 1031,
                     "topics": [
                       "govuk"
                     ]
@@ -1929,7 +1929,7 @@
                     "language": "Ruby",
                     "license": "MIT",
                     "last_commit": "2026-10-01T22:38:35Z",
-                    "open_issues": 327,
+                    "open_issues": 328,
                     "owner": "WikiEducationFoundation",
                     "repo": "WikiEduDashboard",
                     "stars": 430,
@@ -1949,7 +1949,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:38:09.381Z",
+    "last_updated": "2026-10-03T04:55:58.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "Learning resources for Ruby, Rails, and related skills.",
