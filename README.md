@@ -218,7 +218,7 @@ In addition to the topics below, it's also good to know the basic workings of th
   -->
 * **TypeScript:**
   <!-- https://github.com/itsdouges/awesome-typescript-ecosystem -->
-  * [ ] TypeScript libraries: [TS-Pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,207 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-14, [Zod](https://github.com/colinhacks/zod) ⭐ 44,235 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-30, [type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,483 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-31, [Effect](https://effect.website/)
+  * [ ] TypeScript libraries: [TS-Pattern](https://github.com/gvergnaud/ts-pattern) ⭐ 15,207 | 🐛 87 | 🌐 TypeScript | 📅 2026-10-14, [Zod](https://github.com/colinhacks/zod) ⭐ 44,241 | 🐛 116 | 🌐 TypeScript | 📅 2026-10-30, [type-fest](https://github.com/sindresorhus/type-fest) ⭐ 17,485 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-01, [Effect](https://effect.website/)
   * [x] [Total TypeScript VS Code extension](https://www.totaltypescript.com/vscode-extension) <!-- https://mattpocock.gallerycdn.vsassets.io/extensions/mattpocock/ts-error-translator/0.10.1/1694612358825/Microsoft.VisualStudio.Services.Icons.Default -->
   * [x] [Total TypeScript essentials](https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup) <!-- https://res.cloudinary.com/total-typescript/image/upload/v1676015688/core-volume_2x_wt7jnc.png -->
   * [ ] [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
@@ -285,7 +285,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 ### Advanced Ruby
 
 * **Concurrency:**
-  * [ ] Explore gems: [async](https://github.com/socketry/async) ⭐ 2,461 | 🐛 29 | 🌐 Ruby | 📅 2026-09-14, [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) ⭐ 5,837 | 🐛 53 | 🌐 Ruby | 📅 2026-10-16, [parallel](https://github.com/grosser/parallel) ⭐ 4,269 | 🐛 37 | 🌐 Ruby | 📅 2026-10-05
+  * [ ] Explore gems: [async](https://github.com/socketry/async) ⭐ 2,461 | 🐛 29 | 🌐 Ruby | 📅 2026-09-14, [concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) ⭐ 5,837 | 🐛 53 | 🌐 Ruby | 📅 2026-10-16, [parallel](https://github.com/grosser/parallel) ⭐ 4,270 | 🐛 37 | 🌐 Ruby | 📅 2026-10-05
   * [ ] [Jesse Storimer - Working with Ruby Threads](https://workingwithruby.com/wwrt/intro)
   * [ ] [Jesse Storimer - Working with Unix Processes](https://workingwithruby.com/wwup/intro)
   * [ ] [Ruby Concurrency: What Actually Happens](https://paolino.me/ruby-concurrency-what-actually-happens)
@@ -348,7 +348,7 @@ See also [my GitHub star lists](https://github.com/fpsvogel?tab=stars) for handy
 
 ### Ruby that is not web development
 
-* 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) for game development. See [their Discord](https://discord.dragonruby.org/) and [community site](https://www.dragonriders.community/). Other Ruby game libraries: [GMR](https://github.com/ColdGlassOMilk/GMR) ⭐ 13 | 🐛 1 | 🌐 C++ | 📅 2026-02-16, [Gosu](https://www.libgosu.org/), [Hokusai](https://hokusai.skinnyjames.net/)/[Hokusai Pocket](https://github.com/skinnyjames/hokusai-pocket) ⭐ 22 | 🐛 6 | 🌐 Ruby | 📅 2026-10-14, [MiniGL](https://github.com/victords/minigl) ⭐ 160 | 🐛 1 | 🌐 Ruby | 📅 2024-02-23, [mruby-cute](https://github.com/pusewicz/mruby-cute) ⭐ 2 | 🐛 1 | 🌐 C | 📅 2026-09-22, [Raylib Ruby](https://www.raylib-ruby.com/), [Reight](https://github.com/xord/reight) ⭐ 37 | 🐛 2 | 🌐 Ruby | 📅 2026-10-27, [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
+* 💲[DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk) for game development. See [their Discord](https://discord.dragonruby.org/) and [community site](https://www.dragonriders.community/). Other Ruby game libraries: [GMR](https://github.com/ColdGlassOMilk/GMR) ⭐ 13 | 🐛 1 | 🌐 C++ | 📅 2026-02-16, [Gosu](https://www.libgosu.org/), [Hokusai](https://hokusai.skinnyjames.net/)/[Hokusai Pocket](https://github.com/skinnyjames/hokusai-pocket) ⭐ 22 | 🐛 6 | 🌐 Ruby | 📅 2026-11-01, [MiniGL](https://github.com/victords/minigl) ⭐ 160 | 🐛 1 | 🌐 Ruby | 📅 2024-02-23, [mruby-cute](https://github.com/pusewicz/mruby-cute) ⭐ 2 | 🐛 1 | 🌐 C | 📅 2026-09-22, [Raylib Ruby](https://www.raylib-ruby.com/), [Reight](https://github.com/xord/reight) ⭐ 37 | 🐛 2 | 🌐 Ruby | 📅 2026-10-27, [Ruby 2D](https://www.ruby2d.com/), [Taylor](https://www.taylormadetech.dev), [TIC-80](https://tic80.com/) <!-- https://img.itch.zone/aW1nLzIzNjU2MzQucG5n/original/WFWBHQ.png -->
 * [Gamefic](https://gamefic.com/) for building text-based games and interactive fiction. See [Getting Started](https://gamefic.com/guides/getting-started) and [examples](https://github.com/castwide/gamefic-sdk/tree/master/examples) ⭐ 12 | 🐛 0 | 🌐 Ruby | 📅 2026-07-23. <!-- https://gamefic.com/assets/goony-6ea3e43a0283cf3bacced44d7f9e0486f27e845415b64350481592e2c1939abf.png -->
 * [SC2AI](https://sc2ai.pages.dev/) for StarCraft II botting <!-- https://gitlab.com/uploads/-/system/project/avatar/60342720/logo.png?width=400 -->
 * [Sonic Pi](https://sonic-pi.net/) for live music coding <!-- https://avatars.githubusercontent.com/u/67760337 -->
@@ -372,7 +372,7 @@ I've chosen the codebases below based on a these criteria:
 
 If you want to explore more widely, here are other places to find open-source Ruby projects:
 
-* [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) ⭐ 1,263 | 🐛 0 | 📅 2026-10-23
+* [Awesome Ruby and Rails Open Source Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) ⭐ 1,264 | 🐛 0 | 📅 2026-10-23
 * [Real World Rails](https://github.com/steveclarke/real-world-rails) ⭐ 545 | 🐛 2 | 🌐 Shell | 📅 2026-10-27 (and [how to search through it manually](https://www.hexdevs.com/posts/massive-list-of-open-source-ruby-on-rails-applications-you-can-use-as-a-reference/))
 * [Ruby projects on CodeTriage](https://www.codetriage.com/?language=Ruby), though not all of them are Rails apps
 
@@ -380,26 +380,26 @@ Without further ado…
 
 * **Small codebases:** Less than 50k lines of Ruby code.
   * [github.com/maybe-finance/maybe](https://github.com/maybe-finance/maybe) ⚠️ Archived. 19k lines. *Personal finance app.*
-  * [github.com/huginn/huginn](https://github.com/huginn/huginn) ⭐ 50,236 | 🐛 695 | 🌐 Ruby | 📅 2026-10-31. 37k lines. *Web task automation.*
-  * [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) ⭐ 18,960 | 🐛 129 | 🌐 Ruby | 📅 2026-10-26. 15k lines. *Open source DocuSign alternative.*
-  * [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) ⭐ 4,856 | 🐛 224 | 🌐 Ruby | 📅 2026-10-31. 18k lines. *Hacker News clone.*
-  * [github.com/basecamp/once-campfire](https://github.com/basecamp/once-campfire) ⭐ 4,807 | 🐛 82 | 🌐 Ruby | 📅 2026-10-30. 6k lines. *Self-hosted chat application similar to Slack.*
-  * [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) ⭐ 4,671 | 🐛 45 | 🌐 Ruby | 📅 2026-10-31. 16k lines. *Main website for The Odin Project web development learning platform.*
+  * [github.com/huginn/huginn](https://github.com/huginn/huginn) ⭐ 50,250 | 🐛 693 | 🌐 Ruby | 📅 2026-11-01. 37k lines. *Web task automation.*
+  * [github.com/docusealco/docuseal](https://github.com/docusealco/docuseal) ⭐ 18,969 | 🐛 129 | 🌐 Ruby | 📅 2026-10-26. 15k lines. *Open source DocuSign alternative.*
+  * [github.com/lobsters/lobsters](https://github.com/lobsters/lobsters) ⭐ 4,857 | 🐛 225 | 🌐 Ruby | 📅 2026-10-31. 18k lines. *Hacker News clone.*
+  * [github.com/basecamp/once-campfire](https://github.com/basecamp/once-campfire) ⭐ 4,808 | 🐛 82 | 🌐 Ruby | 📅 2026-10-30. 6k lines. *Self-hosted chat application similar to Slack.*
+  * [github.com/TheOdinProject/theodinproject](https://github.com/TheOdinProject/theodinproject) ⭐ 4,674 | 🐛 45 | 🌐 Ruby | 📅 2026-10-31. 16k lines. *Main website for The Odin Project web development learning platform.*
   * [github.com/feedbin/feedbin](https://github.com/feedbin/feedbin) ⭐ 3,782 | 🐛 182 | 🌐 Ruby | 📅 2026-10-31. 31k lines. *RSS reader.*
   * [github.com/SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) ⭐ 2,255 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-02. 6k lines. *CMS (Content Management System).*
-  * [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme) ⭐ 1,650 | 🐛 42 | 🌐 Ruby | 📅 2026-10-30. 21k lines. *Mental health communication web app to share experiences with loved ones.*
-  * [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) ⭐ 1,471 | 🐛 114 | 🌐 Ruby | 📅 2026-10-01. 6k lines. *Issue tracker for open-source projects.*
-  * [github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) ⭐ 1,287 | 🐛 1,116 | 🌐 JavaScript | 📅 2026-10-31. 15k lines. *Digital logic circuit simulator. Has a Vue.js front end.*
-  * [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) ⭐ 1,100 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-15. 11k lines. *UI development environment for Rails apps.*
-  * [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/) ⭐ 945 | 🐛 3 | 🌐 Ruby | 📅 2026-10-30. 5k lines. *Self-hosted project/time management app.*
-  * [github.com/openSUSE/osem](https://github.com/openSUSE/osem) ⭐ 929 | 🐛 247 | 🌐 Ruby | 📅 2026-10-31. 24k lines. *Event management tool tailored to Free and Open Source Software conferences.*
+  * [github.com/ifmeorg/ifme](https://github.com/ifmeorg/ifme) ⭐ 1,650 | 🐛 43 | 🌐 Ruby | 📅 2026-11-01. 21k lines. *Mental health communication web app to share experiences with loved ones.*
+  * [github.com/codetriage/codetriage](https://github.com/codetriage/codetriage) ⭐ 1,472 | 🐛 114 | 🌐 Ruby | 📅 2026-10-01. 6k lines. *Issue tracker for open-source projects.*
+  * [github.com/CircuitVerse/CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) ⭐ 1,287 | 🐛 1,118 | 🌐 JavaScript | 📅 2026-10-31. 15k lines. *Digital logic circuit simulator. Has a Vue.js front end.*
+  * [github.com/lookbook-hq/lookbook](https://github.com/lookbook-hq/lookbook) ⭐ 1,100 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-01. 11k lines. *UI development environment for Rails apps.*
+  * [github.com/eigenfocus/eigenfocus](https://github.com/eigenfocus/eigenfocus/) ⭐ 944 | 🐛 3 | 🌐 Ruby | 📅 2026-10-30. 5k lines. *Self-hosted project/time management app.*
+  * [github.com/openSUSE/osem](https://github.com/openSUSE/osem) ⭐ 930 | 🐛 247 | 🌐 Ruby | 📅 2026-10-31. 24k lines. *Event management tool tailored to Free and Open Source Software conferences.*
   * [github.com/AlchemyCMS/alchemy\_cms](https://github.com/AlchemyCMS/alchemy_cms) ⭐ 905 | 🐛 16 | 🌐 Ruby | 📅 2026-10-31. 37k lines. *CMS (Content Management System).*
   * [github.com/joemasilotti/railsdevs.com](https://github.com/joemasilotti/railsdevs.com) ⚠️ Archived. 14k lines. *The reverse job board for Ruby on Rails developers.*
-  * [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) ⭐ 594 | 🐛 62 | 🌐 Ruby | 📅 2026-10-25. 47k lines. *An inventory management system for essentials supply banks.*
-  * [github.com/rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) ⭐ 571 | 🐛 112 | 🌐 Ruby | 📅 2026-10-31. 11k lines. *Index of Ruby events and videos.*
-  * [github.com/AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) ⭐ 513 | 🐛 27 | 🌐 Ruby | 📅 2026-10-30. 16k lines. *Self-hosted ChatGPT alternative.*
+  * [github.com/rubyforgood/human-essentials](https://github.com/rubyforgood/human-essentials) ⭐ 595 | 🐛 57 | 🌐 Ruby | 📅 2026-11-01. 47k lines. *An inventory management system for essentials supply banks.*
+  * [github.com/rubyevents/rubyevents](https://github.com/rubyevents/rubyevents) ⭐ 571 | 🐛 112 | 🌐 Ruby | 📅 2026-11-01. 11k lines. *Index of Ruby events and videos.*
+  * [github.com/AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) ⭐ 513 | 🐛 27 | 🌐 Ruby | 📅 2026-11-01. 16k lines. *Self-hosted ChatGPT alternative.*
   * [github.com/RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) ⭐ 507 | 🐛 57 | 🌐 Ruby | 📅 2026-10-28. 17k lines. *Example app showing DDD (Domain-Driven Design), CQRS, and Event Sourcing.*
-  * [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa) ⭐ 383 | 🐛 57 | 🌐 Ruby | 📅 2026-10-30. 44k lines. *Volunteer management system for the nonprofit CASA.*
+  * [github.com/rubyforgood/casa](https://github.com/rubyforgood/casa) ⭐ 383 | 🐛 70 | 🌐 Ruby | 📅 2026-11-01. 44k lines. *Volunteer management system for the nonprofit CASA.*
   * [github.com/thoughtbot/upcase](https://github.com/thoughtbot/upcase) ⭐ 338 | 🐛 19 | 🌐 Ruby | 📅 2026-02-10. 14k lines. *Learning platform for developers.*
   * [github.com/rauversion/rauversion](https://github.com/rauversion/rauversion) ⭐ 124 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-29. 20k lines. *Music platform.*
   * [github.com/chicago-tool-library/circulate](https://github.com/chicago-tool-library/circulate) ⭐ 119 | 🐛 171 | 🌐 Ruby | 📅 2026-10-30. 26k lines. *A lending library management system.*
@@ -412,23 +412,23 @@ Without further ado…
   * [github.com/demingfactor/calagator](https://github.com/demingfactor/calagator) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2024-03-26. 9k lines. *Community calendar platform.*
   * [once.com/writebook](https://once.com/writebook). 3k lines. *App for publishing books to the web.* <!-- https://once.com/assets/images/logo-writebook.png -->
 * **Larger codebases:** More than 50k lines of Ruby code.
-  * [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) ⭐ 50,464 | 🐛 4,616 | 🌐 Ruby | 📅 2026-10-31. 117k lines. *Like Twitter but self-hosted and federated.*
-  * [github.com/discourse/discourse](https://github.com/discourse/discourse) ⭐ 48,041 | 🐛 265 | 🌐 Ruby | 📅 2026-10-31. 514k lines. *Discussion forum platform. Has an Ember.js front end.*
-  * [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 38,673 | 🐛 1,609 | 🌐 Ruby | 📅 2026-10-31. 74k lines. *Customer engagement suite. Has a Vue.js front end.*
-  * [github.com/forem/forem](https://github.com/forem/forem) ⭐ 22,818 | 🐛 163 | 🌐 Ruby | 📅 2026-10-31. 126k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
-  * [github.com/opf/openproject](https://github.com/opf/openproject) ⭐ 16,872 | 🐛 304 | 🌐 Ruby | 📅 2026-10-31. 479k lines. *Project management software.*
-  * [github.com/antiwork/gumroad](https://github.com/antiwork/gumroad) ⭐ 10,064 | 🐛 6 | 🌐 Ruby | 📅 2026-10-31. 323k lines. *E-commerce platform.*
-  * [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) ⭐ 6,893 | 🐛 472 | 🌐 Ruby | 📅 2026-04-30. 891k lines. *A popular LMS (learning management system).*
-  * [github.com/redmine/redmine](https://github.com/redmine/redmine) ⭐ 6,066 | 🐛 3 | 🌐 Ruby | 📅 2026-10-31. 118k lines. *Project management app.*
-  * [github.com/zammad/zammad](https://github.com/zammad/zammad) ⭐ 6,060 | 🐛 486 | 🌐 Ruby | 📅 2026-10-31. 299k lines. *Helpdesk/customer support system.*
+  * [github.com/mastodon/mastodon](https://github.com/mastodon/mastodon) ⭐ 50,460 | 🐛 4,624 | 🌐 Ruby | 📅 2026-11-01. 117k lines. *Like Twitter but self-hosted and federated.*
+  * [github.com/discourse/discourse](https://github.com/discourse/discourse) ⭐ 48,044 | 🐛 265 | 🌐 Ruby | 📅 2026-10-31. 514k lines. *Discussion forum platform. Has an Ember.js front end.*
+  * [github.com/chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 38,704 | 🐛 1,613 | 🌐 Ruby | 📅 2026-10-31. 74k lines. *Customer engagement suite. Has a Vue.js front end.*
+  * [github.com/forem/forem](https://github.com/forem/forem) ⭐ 22,818 | 🐛 165 | 🌐 Ruby | 📅 2026-11-01. 126k lines. *Powers the blogging site [dev.to](https://dev.to/). Uses Preact on the front end.*
+  * [github.com/opf/openproject](https://github.com/opf/openproject) ⭐ 16,900 | 🐛 312 | 🌐 Ruby | 📅 2026-11-01. 479k lines. *Project management software.*
+  * [github.com/antiwork/gumroad](https://github.com/antiwork/gumroad) ⭐ 10,071 | 🐛 7 | 🌐 Ruby | 📅 2026-11-01. 323k lines. *E-commerce platform.*
+  * [github.com/instructure/canvas-lms](https://github.com/instructure/canvas-lms) ⭐ 6,896 | 🐛 472 | 🌐 Ruby | 📅 2026-04-30. 891k lines. *A popular LMS (learning management system).*
+  * [github.com/redmine/redmine](https://github.com/redmine/redmine) ⭐ 6,068 | 🐛 3 | 🌐 Ruby | 📅 2026-11-01. 118k lines. *Project management app.*
+  * [github.com/zammad/zammad](https://github.com/zammad/zammad) ⭐ 6,062 | 🐛 486 | 🌐 Ruby | 📅 2026-10-31. 299k lines. *Helpdesk/customer support system.*
   * [github.com/solidusio/solidus](https://github.com/solidusio/solidus) ⭐ 5,348 | 🐛 71 | 🌐 Ruby | 📅 2026-10-29. 98k lines. *E-commerce platform.*
   * [github.com/rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) ⭐ 2,440 | 🐛 101 | 🌐 Ruby | 📅 2026-10-30. 56k lines. *Where Ruby gems are hosted.*
   * [github.com/decidim/decidim](https://github.com/decidim/decidim) ⭐ 1,843 | 🐛 410 | 🌐 Ruby | 📅 2026-10-30. 294k lines. *The participatory democracy framework.*
-  * [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,301 | 🐛 647 | 🌐 Ruby | 📅 2026-10-31. 129k lines. *An online marketplace for local food.*
+  * [github.com/openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) ⭐ 1,301 | 🐛 648 | 🌐 Ruby | 📅 2026-10-31. 129k lines. *An online marketplace for local food.*
   * [github.com/alphagov/whitehall](https://github.com/alphagov/whitehall) ⭐ 1,042 | 🐛 43 | 🌐 Ruby | 📅 2026-10-30. 110k lines. *Publishes government content on [gov.uk](https://www.gov.uk/).*
   * [github.com/WikiEducationFoundation/WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard) ⭐ 430 | 🐛 338 | 🌐 Ruby | 📅 2026-10-30. 59k lines. *Wikipedia course dashboard system. Has a React front end.*
   * [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab). 3 million lines. *Like GitHub but with CI/CD and DevOps features built in. Uses Vue.js on the front end. Has [docs on architecture](https://docs.gitlab.com/ee/development/architecture.html).* <!-- https://letslearnruby.com/images/gitlab.png -->
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
